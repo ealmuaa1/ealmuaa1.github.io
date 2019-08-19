@@ -1,0 +1,28 @@
+body,
+html {
+   
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+
+  background-image:url(header.jpg);
+}
+  h1 { color: white; 
+  	text-align: center;
+  	margin-top: 390px;
+  	font-size: 26px;
+
+  }
+  div {
+  	margin-left: 750px;
+  	margin-top: 230px;
+  }
+
+  button{
+  	color:white;
+  	background-color: red;
+  	border-radius:15px;
+
+
+  }
